@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>native.qss</file>
+        <file>custom.qss</file>
+    </qresource>
+</RCC>

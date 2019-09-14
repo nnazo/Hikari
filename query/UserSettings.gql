@@ -1,0 +1,15 @@
+{
+    Viewer {
+        id
+        name
+        mediaListOptions {
+            scoreFormat
+            animeList {
+                customLists
+            }
+            mangaList {
+                customLists
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+/* QToolTip {
+    color: #ffffff;
+    background-color: #2a82da;
+    // border: 1px solid white;
+} */
+.QWidget {
+    background: rgb(32, 34, 37);
+}
+QDialog {
+    background: rgb(32, 34, 37);
+}
+QTabBar::tab {
+    height: 22px;
+}
+QMenuBar {
+    background: rgb(12, 13, 15);
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+    spacing: 0px;
+}
+QMenu {
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+}
+QToolBar {
+    background: rgb(32, 34, 37);
+    spacing: 0px;
+}
+QToolButton {
+    min-width: 120px;
+    font-size: 16px;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 6px;
+    shape: square;
+}
+QToolButton:hover {
+    background: rgb(41, 44, 48);
+    border: 0px solid;
+}
+QLabel {
+    font-size: 20px;
+}
+//QPushButton {
+//     border: 0px solid;
+//}
+//QLineEdit {
+//    border: 0px solid red;
+//    selection-color: yellow;
+//    color: yellow;
+//}
